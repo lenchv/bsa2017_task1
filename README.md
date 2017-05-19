@@ -23,3 +23,8 @@
 кометы ISON, когда использовались данные 23 групп со всего мира.</p>
 
 Источник: [http://www.segodnya.ua/](http://www.segodnya.ua/science/v-nasa-rasskazali-o-blizhayshih-k-zemle-kometah-1019895.html)
+
+___
+### _Иван Иванов_
+Будем готовить телескопы.
+___
