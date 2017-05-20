@@ -19,3 +19,11 @@
 <p>Напомним, в начале января астрономы миссии NEOWISE обнаружили две кометы, которые приближались к Земле.</p>
 
 Источник: [www.segodnya.ua/](http://www.segodnya.ua/science/k-zemle-na-minimalnoe-rasstoyanie-priblizilas-neobychnaya-kometa-1009197.html)
+
+___
+
+### _Иван Иванов_
+
+Дайте фоточек, плз
+
+___
