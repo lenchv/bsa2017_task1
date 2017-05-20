@@ -2,7 +2,7 @@
 
 > Наибольший интерес у специалистов вызывает комета, которая пролетит в 11,5 миллиона километрах от Земли в декабре следующего года
 
-[![ScienceCasts: Close Approach Comets](http://img.youtube.com/vi/j-Vz38ECJh0/0.jpg)](https://www.youtube.com/watch?v=j-Vz38ECJh0)
+[![ScienceCasts: Close Approach Comets](http://img.youtube.com/vi/j-Vz38ECJh0/hq720.jpg)](https://www.youtube.com/watch?v=j-Vz38ECJh0)
 
 <p>Специалисты американского космического агентства рассказали о трех кометах, 
 изучить которые в 2017 и 2018 годах можно с Земли с помощью обычных телескопов.</p>
